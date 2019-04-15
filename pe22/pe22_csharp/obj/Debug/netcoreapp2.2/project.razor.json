@@ -1,0 +1,14 @@
+{
+  "ProjectFilePath": "/Users/sotsoguk/Projects/projectEuler/pe22/pe22_csharp/pe22_csharp.csproj",
+  "TargetFramework": "netcoreapp2.2",
+  "TagHelpers": [],
+  "Configuration": {
+    "ConfigurationName": "UnsupportedRazor",
+    "LanguageVersion": "1.0",
+    "Extensions": [
+      {
+        "ExtensionName": "UnsupportedRazorExtension"
+      }
+    ]
+  }
+}
